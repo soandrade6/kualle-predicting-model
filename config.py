@@ -1,0 +1,5 @@
+MONGO_URI = "mongodb://localhost:27017/"
+DB_NAME = "kualle_db"
+COLLECTION_NAME = "risk_profile"
+API_URL = "http://localhost:8000/api/v1/risk-profile-files"
+MODEL_PATH = "predict_model/modelo_riesgo.pkl"

@@ -1,0 +1,101 @@
+id,employee_id,name,role,gender,birth_date,economic_activity_code,economic_activity_name,education_level,risk_level
+cd8dd1ac-b0c1-4a7c-80cf-1a084ea349b1,1,Stephanie Hansen,Operator,Male,1967-07-08,4004,Retail,High School,33.3
+17eec55d-1a43-4e1e-94ec-bd85fadaad8f,2,Rose Schmidt,Technician,Female,1972-10-30,5005,Finance,High School,60.33
+522f3d69-df8d-48b2-b659-29dccaac15c1,3,Kathryn Pratt,Operator,Female,1977-09-17,4004,Retail,Bachelor's Degree,93.07
+817763af-4181-4482-b6bf-ee8c0fdba7c7,4,Chase Smith,Manager,Female,1981-02-02,3003,Construction,Bachelor's Degree,35.92
+57065032-c435-4d16-a0af-e5fc7a70798a,5,Ashley Faulkner,Engineer,Male,1976-04-21,5005,Finance,Master's Degree,48.58
+6c838222-f100-4190-a870-4c694c76021e,6,Eric Davis,Operator,Male,1986-11-26,5005,Finance,Master's Degree,59.02
+6ab22f3a-1422-4b42-ab43-1451c3964514,7,John King,Operator,Male,1964-09-15,3003,Construction,Bachelor's Degree,10.27
+0ba2c57c-6ea6-4a4d-9acd-0fac4e8d9aa9,8,Justin Obrien,Engineer,Female,1986-02-12,3003,Construction,PhD,1.6
+117c7526-3487-4917-a49d-bb6fa85b942b,9,Nicholas Valencia,Manager,Female,1963-06-15,4004,Retail,PhD,44.01
+28415683-dac9-489b-a953-3a1bb6334875,10,Robert Crawford,Engineer,Male,1981-10-30,4004,Retail,PhD,50.68
+cb32d316-111e-424a-961e-96171b30ecfb,11,Carol Hamilton,Analyst,Female,1980-07-24,5005,Finance,High School,5.63
+b75c3dca-3423-4f82-ba18-f67d166024a0,12,Tina Martinez,Analyst,Male,1976-06-19,4004,Retail,High School,31.64
+86e06dcb-71cd-4c3a-bf08-4f3243f29e66,13,Eric Parrish,Manager,Male,1998-06-29,3003,Construction,Bachelor's Degree,25.71
+d4a5731c-fd5f-46a6-8fc5-b04d06215dc1,14,Elizabeth Wright,Manager,Female,1980-09-16,4004,Retail,PhD,75.61
+8ffd2379-7df7-4e25-9f53-b14915ad09b6,15,Elijah Wallace,Technician,Male,1976-01-07,5005,Finance,High School,29.86
+6a1a240c-d973-4d19-bdd1-dc55cc04c462,16,Brooke Little,Analyst,Male,1965-03-24,3003,Construction,Bachelor's Degree,85.53
+59d6407e-cfff-4d38-a74c-3cbd5eeb8a16,17,Jamie Ferrell,Engineer,Male,1993-11-09,4004,Retail,High School,22.9
+c4554c04-224f-4287-9956-1c4a701d1245,18,George Herman,Operator,Female,1984-10-10,4004,Retail,PhD,42.31
+fbe1906f-7888-46ea-b363-549b13beddb9,19,James Gonzalez,Analyst,Male,1965-01-02,5005,Finance,Bachelor's Degree,5.87
+5e535444-41b8-4e00-b9fc-2adbcf455d0e,20,Ronald Williams,Operator,Female,1970-07-04,1001,Agriculture,High School,15.5
+71bcaf7e-15d2-4c7a-899c-7c9dbbe74326,21,Steven Burnett,Analyst,Female,1999-03-07,1001,Agriculture,High School,85.86
+30e26c2d-c03b-4490-83e8-5b8f50080583,22,Michael Allen,Operator,Female,1990-07-10,1001,Agriculture,Master's Degree,93.19
+e79391bd-9e7a-4e4a-9b0f-8aa476667898,23,James Williams,Engineer,Male,1999-02-25,1001,Agriculture,Master's Degree,12.4
+c3fcf964-8e89-4064-95e7-05d0e290274e,24,Tiffany Davis,Engineer,Female,1989-03-10,4004,Retail,High School,99.1
+92cecc69-a0b8-48f3-9ab4-d11859a1772c,25,Nancy Johnson,Analyst,Female,1970-03-16,3003,Construction,High School,82.03
+9c3efca6-5cbe-4dc7-a218-c322e62f86e5,26,Amanda Schmidt,Operator,Female,1987-10-18,4004,Retail,High School,17.44
+1c8d7833-a53e-4038-bb3b-efec26284d0d,27,Erica Chase,Operator,Male,1975-06-09,4004,Retail,High School,92.86
+a5b53785-d603-47f5-b4c8-82c25490601c,28,Johnny Merritt,Technician,Female,1982-10-22,4004,Retail,PhD,96.23
+75331b4d-6dde-47f1-a1d6-0d0ce0c5ecc6,29,Kristie Martin,Operator,Male,1972-07-16,1001,Agriculture,Master's Degree,31.22
+42fd8be4-a97d-47f4-bdd5-4505026aba50,30,Lori Morrow,Technician,Female,1967-04-06,5005,Finance,PhD,72.96
+d97b0cdd-6f8d-4628-960c-131a3a158ba2,31,David Gould,Operator,Male,1997-09-15,4004,Retail,PhD,61.61
+3c4221b3-4ba5-4118-8f8d-2c00e4e5fc86,32,Alec Rios,Engineer,Female,1977-07-15,1001,Agriculture,Master's Degree,34.35
+821e5d45-b801-42bb-a0b7-3b285020af76,33,Billy Glass,Operator,Female,2006-06-12,5005,Finance,High School,67.44
+8e562e4f-c46a-41d2-a8e2-7eee545fa162,34,Jonathan Mejia,Manager,Male,1970-05-08,3003,Construction,PhD,16.87
+48a40d21-4626-429e-bcab-9a5a373e1593,35,Catherine Collins,Manager,Female,1962-04-16,5005,Finance,Master's Degree,54.35
+63973bc8-be0e-4839-b1d7-89653766454d,36,Madison Landry,Engineer,Male,1993-07-05,5005,Finance,Master's Degree,78.16
+8ce31e07-b464-4128-ac78-6bd1d8ab3568,37,Allen Jennings,Engineer,Male,1976-03-27,5005,Finance,PhD,2.17
+de2a9984-9701-4ad7-a555-b63c062e037a,38,Michelle Hernandez,Manager,Male,1976-04-23,5005,Finance,Master's Degree,22.38
+d22641a3-fb4a-4bfd-bb60-660c601fea45,39,Jessica Mclaughlin,Manager,Male,2004-11-21,1001,Agriculture,Bachelor's Degree,57.61
+4cf20e5b-15a5-4c47-ad07-fbe44c4330d4,40,Anna Lawson,Technician,Female,1968-11-21,1001,Agriculture,PhD,52.15
+35bd7032-1c82-44b4-95a4-43ac4a255149,41,Hunter Simmons,Analyst,Male,1991-02-01,3003,Construction,Bachelor's Degree,68.1
+816490c5-b95b-4ca6-8568-43811a0fe1ed,42,Susan Smith,Manager,Female,2000-06-27,3003,Construction,High School,72.0
+448a73fd-48b0-4a5e-b09a-6217bcf9043a,43,Stephanie Evans,Manager,Female,1988-03-26,3003,Construction,High School,36.1
+e77ee610-204e-48b2-965c-b2f2140af315,44,Collin Steele,Manager,Male,1984-09-24,4004,Retail,Master's Degree,75.71
+a61925d6-3c0a-424d-adb7-28ffccffa037,45,Andrew Rodriguez,Engineer,Male,2000-01-28,5005,Finance,High School,91.12
+584fbaf8-924e-4550-a880-63296a239542,46,Karen Riley,Manager,Male,1963-10-20,5005,Finance,Bachelor's Degree,9.75
+02809733-a429-4351-b9c4-2b775fd12dd4,47,Leslie Hughes,Engineer,Female,1981-09-16,1001,Agriculture,Bachelor's Degree,41.47
+1b7caff4-f5a2-4e06-a570-f7fa8847a909,48,Sharon Powell,Technician,Female,1974-08-10,4004,Retail,Bachelor's Degree,90.31
+565b8fc1-1c3c-4e01-8a83-7ef42a11c6f1,49,Kenneth Francis,Manager,Male,2004-09-14,5005,Finance,Master's Degree,62.49
+93d23869-0c8a-4418-ac86-7d43fb79c9ec,50,Sarah Jefferson,Technician,Female,2002-01-19,1001,Agriculture,High School,91.49
+9bbe8feb-d628-475b-be3a-82d9855f8606,51,Casey Gregory,Analyst,Female,1964-05-18,4004,Retail,Bachelor's Degree,37.99
+b1890dd5-8abe-4c86-9774-776b0ef99314,52,Shelby Campbell,Manager,Female,1997-10-17,4004,Retail,Bachelor's Degree,13.63
+7355fc4d-5a72-4e88-8d83-5b7aff132da6,53,Patrick Adkins,Analyst,Male,2001-10-10,5005,Finance,Bachelor's Degree,56.76
+a299f5a3-82f7-4458-a85f-30c6596ada50,54,Timothy Johnson,Technician,Male,1996-06-13,1001,Agriculture,Bachelor's Degree,95.83
+c116637d-7b5a-4004-a516-4a8558e15761,55,Jasmine Bishop,Engineer,Female,1979-07-22,5005,Finance,High School,60.58
+896189cf-c563-463a-85ad-5db7fcac0e48,56,Lisa King,Manager,Male,1962-09-16,1001,Agriculture,Bachelor's Degree,75.6
+1aff7ab3-cbaa-4fa5-9673-43ad24427d97,57,Dawn Parks,Operator,Male,2002-09-22,5005,Finance,PhD,81.86
+f59e52e0-d2d1-417e-8507-ddbcbc1ff2d5,58,Chase Bailey,Engineer,Female,1984-03-04,1001,Agriculture,High School,8.08
+40100de1-230c-4c61-8f70-c03b153c9015,59,Randall Harmon PhD,Technician,Female,1974-02-08,5005,Finance,Master's Degree,75.07
+253acb09-73ee-4f71-869b-9517b4d61bdf,60,Charles Garcia,Operator,Male,1963-09-30,5005,Finance,Bachelor's Degree,49.16
+940cc446-f480-4122-aee7-caa576d6bf37,61,Andrew Harper,Analyst,Male,2001-01-02,3003,Construction,Master's Degree,6.53
+62349c03-8e57-420a-b4d3-c14751cb8724,62,Marcia Smith,Engineer,Male,1959-12-02,4004,Retail,Master's Degree,86.64
+b69651d5-c7a4-44f5-8b73-2b359432312d,63,James Mccoy,Manager,Female,1997-05-11,3003,Construction,Bachelor's Degree,42.01
+edda6237-854a-4ab9-92e0-a7804cc94d78,64,Stacy Dalton,Technician,Male,1971-04-19,5005,Finance,High School,87.85
+f64afe99-4a4c-48d3-b5ce-4aac85317403,65,Desiree Henderson,Operator,Female,1993-11-03,3003,Construction,Master's Degree,23.22
+9153dc28-05db-4db3-aed7-2e1e42af5f37,66,Betty Peters,Engineer,Female,1966-02-08,1001,Agriculture,Master's Degree,51.83
+92c709a9-9373-4f1a-a3e4-493a4d3b847d,67,Samantha Warren,Engineer,Male,1959-10-25,1001,Agriculture,Master's Degree,75.18
+233adc86-e6bd-4830-9e61-a7258faa868d,68,Melody Lin,Analyst,Male,1973-07-09,1001,Agriculture,Bachelor's Degree,74.6
+51cf7864-fa6b-4eaf-ba91-672404d0fe4f,69,Justin Contreras,Analyst,Female,1999-02-13,4004,Retail,High School,97.02
+485dd058-adbd-4cf6-9a69-89995686d981,70,Christopher Stafford,Operator,Male,1959-10-31,4004,Retail,PhD,76.16
+536f0a0f-7960-4b68-ac5f-497ecbf3cfd9,71,Ryan Martinez,Operator,Male,1979-05-04,5005,Finance,High School,80.09
+b397eb0a-0199-4416-b01a-4ce1ccf3ba97,72,Andre Rivera,Engineer,Male,1973-05-20,3003,Construction,PhD,77.33
+364e539f-707d-4175-a2ce-98a9da772f2f,73,Jonathan Lopez,Technician,Male,1999-09-06,1001,Agriculture,Master's Degree,38.04
+e687185b-6cbe-4cd1-aa71-1189c1ba180c,74,Jean Williams,Analyst,Female,1969-02-08,4004,Retail,High School,14.42
+7bfada6c-a12e-4a3e-851f-6c108edda9a9,75,Mrs. Brooke Powell MD,Analyst,Male,1961-03-23,1001,Agriculture,Bachelor's Degree,85.84
+f124336c-6ff6-4a7a-bd92-cbce68d61ff0,76,Alison Fuentes,Operator,Male,1973-03-07,4004,Retail,Master's Degree,37.57
+b1f64641-a976-45a6-9c99-2e590a9b5ef4,77,Carrie Gordon,Technician,Female,1982-06-25,1001,Agriculture,Master's Degree,10.03
+448263ff-58d4-44ce-9d35-7464b29721e5,78,Lindsay Moore,Engineer,Male,1973-08-25,3003,Construction,PhD,74.26
+c89605a8-8aa4-4676-a543-d8f0d0a529d2,79,Matthew James,Operator,Male,1995-05-09,5005,Finance,High School,30.73
+6308f6a5-87c3-4de9-ab8f-d6f6946bfe68,80,Seth Miller,Engineer,Female,1979-06-30,4004,Retail,Bachelor's Degree,19.74
+bcbb65a5-855a-4686-bf08-1474708a80b5,81,Barbara Morales,Analyst,Female,1996-11-06,1001,Agriculture,PhD,20.05
+b877fdc5-daa5-4dad-9784-3af76fb645b7,82,Lisa Jackson,Engineer,Male,1971-01-03,1001,Agriculture,Bachelor's Degree,80.15
+840fbd7c-aedc-4a3b-8807-1faa3690ec98,83,Kathryn Obrien,Manager,Male,1992-06-05,4004,Retail,Bachelor's Degree,67.98
+c79b62cb-4113-4604-a26c-a0e41d7b5f16,84,Daniel Calderon,Engineer,Female,1995-07-20,5005,Finance,PhD,48.07
+b1292e93-5b5d-4db7-b175-c3d27f618ff2,85,Laura Coleman,Engineer,Female,1964-04-18,3003,Construction,Master's Degree,97.63
+02418a1a-5249-4f94-a100-b31735b02382,86,John Ayers,Operator,Female,1995-09-27,1001,Agriculture,PhD,22.98
+474a44e9-dca9-4da2-b62b-2b7e44b07cc5,87,Wendy Powell,Manager,Female,1967-03-27,3003,Construction,Master's Degree,25.41
+99c8a5f5-593f-4920-89b9-37641e8999cc,88,Christopher Smith,Technician,Female,1964-07-28,5005,Finance,High School,3.02
+20c6fd06-81a9-4e51-ab7b-6d1c68085b0f,89,Deanna Lyons,Analyst,Female,1984-10-11,4004,Retail,PhD,25.08
+a6ce5821-022c-465d-8573-164036849f01,90,Michael Johnson,Manager,Female,1972-10-12,4004,Retail,Master's Degree,32.36
+3f923267-7053-4281-8806-dcea8a5aa695,91,Joseph Harrison,Engineer,Male,1972-02-05,1001,Agriculture,Bachelor's Degree,27.92
+424a52c9-7b46-48c0-9ec2-e05cbfa8340c,92,Devin Vazquez,Engineer,Male,2002-12-28,4004,Retail,Master's Degree,17.91
+c9bd2ffb-c4b3-4a10-8fde-ca929c4a5219,93,Jason Brooks,Engineer,Female,1990-04-03,5005,Finance,High School,59.16
+854774ea-b057-4271-b602-b91d2017941e,94,Ryan Spears,Engineer,Female,1977-04-06,3003,Construction,Bachelor's Degree,96.77
+368ed382-abd1-4e3d-b8ef-5b101fc4b640,95,Joe Huffman,Operator,Male,1985-10-27,3003,Construction,PhD,93.5
+3b1590f2-df86-4be4-86cb-fd062ec4911a,96,Erica Jones,Analyst,Male,1966-01-26,4004,Retail,PhD,74.22
+5eec7553-bd3f-49a9-a8a6-0bc96326837a,97,Susan Black,Engineer,Female,1962-04-25,1001,Agriculture,High School,36.58
+b74f7ddb-e27c-42f0-9219-2ff1c4bfa373,98,Elizabeth Smith,Engineer,Female,1971-04-07,3003,Construction,High School,84.52
+9a854121-55cb-48b0-a978-7f436a43c8f1,99,Heather Bishop,Operator,Female,1992-11-07,3003,Construction,Master's Degree,9.28
+d8548811-daaf-423f-ae71-cb0875e06fba,100,Richard Harper,Manager,Male,1973-08-08,5005,Finance,High School,93.76
